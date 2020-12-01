@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ch03-double-convert/1.0.0": {
+        "runtime": {
+          "ch03-double-convert.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ch03-double-convert/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

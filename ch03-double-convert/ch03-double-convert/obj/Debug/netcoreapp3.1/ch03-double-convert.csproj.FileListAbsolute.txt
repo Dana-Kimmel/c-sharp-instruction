@@ -1,0 +1,13 @@
+C:\Repos\c-sharp-instruction\ch03-double-convert\ch03-double-convert\bin\Debug\netcoreapp3.1\ch03-double-convert.exe
+C:\Repos\c-sharp-instruction\ch03-double-convert\ch03-double-convert\bin\Debug\netcoreapp3.1\ch03-double-convert.deps.json
+C:\Repos\c-sharp-instruction\ch03-double-convert\ch03-double-convert\bin\Debug\netcoreapp3.1\ch03-double-convert.runtimeconfig.json
+C:\Repos\c-sharp-instruction\ch03-double-convert\ch03-double-convert\bin\Debug\netcoreapp3.1\ch03-double-convert.runtimeconfig.dev.json
+C:\Repos\c-sharp-instruction\ch03-double-convert\ch03-double-convert\bin\Debug\netcoreapp3.1\ch03-double-convert.dll
+C:\Repos\c-sharp-instruction\ch03-double-convert\ch03-double-convert\bin\Debug\netcoreapp3.1\ch03-double-convert.pdb
+C:\Repos\c-sharp-instruction\ch03-double-convert\ch03-double-convert\obj\Debug\netcoreapp3.1\ch03-double-convert.csprojAssemblyReference.cache
+C:\Repos\c-sharp-instruction\ch03-double-convert\ch03-double-convert\obj\Debug\netcoreapp3.1\ch03-double-convert.csproj.CoreCompileInputs.cache
+C:\Repos\c-sharp-instruction\ch03-double-convert\ch03-double-convert\obj\Debug\netcoreapp3.1\ch03-double-convert.AssemblyInfoInputs.cache
+C:\Repos\c-sharp-instruction\ch03-double-convert\ch03-double-convert\obj\Debug\netcoreapp3.1\ch03-double-convert.AssemblyInfo.cs
+C:\Repos\c-sharp-instruction\ch03-double-convert\ch03-double-convert\obj\Debug\netcoreapp3.1\ch03-double-convert.dll
+C:\Repos\c-sharp-instruction\ch03-double-convert\ch03-double-convert\obj\Debug\netcoreapp3.1\ch03-double-convert.pdb
+C:\Repos\c-sharp-instruction\ch03-double-convert\ch03-double-convert\obj\Debug\netcoreapp3.1\ch03-double-convert.genruntimeconfig.cache
