@@ -1,0 +1,13 @@
+C:\Repos\c-sharp-instruction\pr-02-01-StudentRegistration\pr-02-01-StudentRegistration\bin\Debug\netcoreapp3.1\pr-02-01-StudentRegistration.exe
+C:\Repos\c-sharp-instruction\pr-02-01-StudentRegistration\pr-02-01-StudentRegistration\bin\Debug\netcoreapp3.1\pr-02-01-StudentRegistration.deps.json
+C:\Repos\c-sharp-instruction\pr-02-01-StudentRegistration\pr-02-01-StudentRegistration\bin\Debug\netcoreapp3.1\pr-02-01-StudentRegistration.runtimeconfig.json
+C:\Repos\c-sharp-instruction\pr-02-01-StudentRegistration\pr-02-01-StudentRegistration\bin\Debug\netcoreapp3.1\pr-02-01-StudentRegistration.runtimeconfig.dev.json
+C:\Repos\c-sharp-instruction\pr-02-01-StudentRegistration\pr-02-01-StudentRegistration\bin\Debug\netcoreapp3.1\pr-02-01-StudentRegistration.dll
+C:\Repos\c-sharp-instruction\pr-02-01-StudentRegistration\pr-02-01-StudentRegistration\bin\Debug\netcoreapp3.1\pr-02-01-StudentRegistration.pdb
+C:\Repos\c-sharp-instruction\pr-02-01-StudentRegistration\pr-02-01-StudentRegistration\obj\Debug\netcoreapp3.1\pr-02-01-StudentRegistration.csprojAssemblyReference.cache
+C:\Repos\c-sharp-instruction\pr-02-01-StudentRegistration\pr-02-01-StudentRegistration\obj\Debug\netcoreapp3.1\pr-02-01-StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Repos\c-sharp-instruction\pr-02-01-StudentRegistration\pr-02-01-StudentRegistration\obj\Debug\netcoreapp3.1\pr-02-01-StudentRegistration.AssemblyInfoInputs.cache
+C:\Repos\c-sharp-instruction\pr-02-01-StudentRegistration\pr-02-01-StudentRegistration\obj\Debug\netcoreapp3.1\pr-02-01-StudentRegistration.AssemblyInfo.cs
+C:\Repos\c-sharp-instruction\pr-02-01-StudentRegistration\pr-02-01-StudentRegistration\obj\Debug\netcoreapp3.1\pr-02-01-StudentRegistration.dll
+C:\Repos\c-sharp-instruction\pr-02-01-StudentRegistration\pr-02-01-StudentRegistration\obj\Debug\netcoreapp3.1\pr-02-01-StudentRegistration.pdb
+C:\Repos\c-sharp-instruction\pr-02-01-StudentRegistration\pr-02-01-StudentRegistration\obj\Debug\netcoreapp3.1\pr-02-01-StudentRegistration.genruntimeconfig.cache

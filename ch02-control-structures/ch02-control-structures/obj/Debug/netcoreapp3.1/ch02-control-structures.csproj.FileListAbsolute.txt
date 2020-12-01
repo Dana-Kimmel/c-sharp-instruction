@@ -1,0 +1,13 @@
+C:\Repos\c-sharp-instruction\ch02-control-structures\ch02-control-structures\obj\Debug\netcoreapp3.1\ch02-control-structures.csprojAssemblyReference.cache
+C:\Repos\c-sharp-instruction\ch02-control-structures\ch02-control-structures\obj\Debug\netcoreapp3.1\ch02-control-structures.csproj.CoreCompileInputs.cache
+C:\Repos\c-sharp-instruction\ch02-control-structures\ch02-control-structures\obj\Debug\netcoreapp3.1\ch02-control-structures.AssemblyInfoInputs.cache
+C:\Repos\c-sharp-instruction\ch02-control-structures\ch02-control-structures\obj\Debug\netcoreapp3.1\ch02-control-structures.AssemblyInfo.cs
+C:\Repos\c-sharp-instruction\ch02-control-structures\ch02-control-structures\bin\Debug\netcoreapp3.1\ch02-control-structures.exe
+C:\Repos\c-sharp-instruction\ch02-control-structures\ch02-control-structures\bin\Debug\netcoreapp3.1\ch02-control-structures.deps.json
+C:\Repos\c-sharp-instruction\ch02-control-structures\ch02-control-structures\bin\Debug\netcoreapp3.1\ch02-control-structures.runtimeconfig.json
+C:\Repos\c-sharp-instruction\ch02-control-structures\ch02-control-structures\bin\Debug\netcoreapp3.1\ch02-control-structures.runtimeconfig.dev.json
+C:\Repos\c-sharp-instruction\ch02-control-structures\ch02-control-structures\bin\Debug\netcoreapp3.1\ch02-control-structures.dll
+C:\Repos\c-sharp-instruction\ch02-control-structures\ch02-control-structures\bin\Debug\netcoreapp3.1\ch02-control-structures.pdb
+C:\Repos\c-sharp-instruction\ch02-control-structures\ch02-control-structures\obj\Debug\netcoreapp3.1\ch02-control-structures.dll
+C:\Repos\c-sharp-instruction\ch02-control-structures\ch02-control-structures\obj\Debug\netcoreapp3.1\ch02-control-structures.pdb
+C:\Repos\c-sharp-instruction\ch02-control-structures\ch02-control-structures\obj\Debug\netcoreapp3.1\ch02-control-structures.genruntimeconfig.cache

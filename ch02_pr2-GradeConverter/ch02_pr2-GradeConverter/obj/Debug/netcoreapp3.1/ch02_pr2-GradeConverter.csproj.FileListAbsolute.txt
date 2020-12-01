@@ -1,0 +1,13 @@
+C:\Repos\c-sharp-instruction\ch02_pr2-GradeConverter\ch02_pr2-GradeConverter\bin\Debug\netcoreapp3.1\ch02_pr2-GradeConverter.exe
+C:\Repos\c-sharp-instruction\ch02_pr2-GradeConverter\ch02_pr2-GradeConverter\bin\Debug\netcoreapp3.1\ch02_pr2-GradeConverter.deps.json
+C:\Repos\c-sharp-instruction\ch02_pr2-GradeConverter\ch02_pr2-GradeConverter\bin\Debug\netcoreapp3.1\ch02_pr2-GradeConverter.runtimeconfig.json
+C:\Repos\c-sharp-instruction\ch02_pr2-GradeConverter\ch02_pr2-GradeConverter\bin\Debug\netcoreapp3.1\ch02_pr2-GradeConverter.runtimeconfig.dev.json
+C:\Repos\c-sharp-instruction\ch02_pr2-GradeConverter\ch02_pr2-GradeConverter\bin\Debug\netcoreapp3.1\ch02_pr2-GradeConverter.dll
+C:\Repos\c-sharp-instruction\ch02_pr2-GradeConverter\ch02_pr2-GradeConverter\bin\Debug\netcoreapp3.1\ch02_pr2-GradeConverter.pdb
+C:\Repos\c-sharp-instruction\ch02_pr2-GradeConverter\ch02_pr2-GradeConverter\obj\Debug\netcoreapp3.1\ch02_pr2-GradeConverter.csprojAssemblyReference.cache
+C:\Repos\c-sharp-instruction\ch02_pr2-GradeConverter\ch02_pr2-GradeConverter\obj\Debug\netcoreapp3.1\ch02_pr2-GradeConverter.csproj.CoreCompileInputs.cache
+C:\Repos\c-sharp-instruction\ch02_pr2-GradeConverter\ch02_pr2-GradeConverter\obj\Debug\netcoreapp3.1\ch02_pr2-GradeConverter.AssemblyInfoInputs.cache
+C:\Repos\c-sharp-instruction\ch02_pr2-GradeConverter\ch02_pr2-GradeConverter\obj\Debug\netcoreapp3.1\ch02_pr2-GradeConverter.AssemblyInfo.cs
+C:\Repos\c-sharp-instruction\ch02_pr2-GradeConverter\ch02_pr2-GradeConverter\obj\Debug\netcoreapp3.1\ch02_pr2-GradeConverter.dll
+C:\Repos\c-sharp-instruction\ch02_pr2-GradeConverter\ch02_pr2-GradeConverter\obj\Debug\netcoreapp3.1\ch02_pr2-GradeConverter.pdb
+C:\Repos\c-sharp-instruction\ch02_pr2-GradeConverter\ch02_pr2-GradeConverter\obj\Debug\netcoreapp3.1\ch02_pr2-GradeConverter.genruntimeconfig.cache
