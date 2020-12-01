@@ -1,0 +1,12 @@
+C:\Repos\c-sharp-instruction\ch03-round-format\ch03-round-format\bin\Debug\netcoreapp3.1\ch03-round-format.exe
+C:\Repos\c-sharp-instruction\ch03-round-format\ch03-round-format\bin\Debug\netcoreapp3.1\ch03-round-format.deps.json
+C:\Repos\c-sharp-instruction\ch03-round-format\ch03-round-format\bin\Debug\netcoreapp3.1\ch03-round-format.runtimeconfig.json
+C:\Repos\c-sharp-instruction\ch03-round-format\ch03-round-format\bin\Debug\netcoreapp3.1\ch03-round-format.runtimeconfig.dev.json
+C:\Repos\c-sharp-instruction\ch03-round-format\ch03-round-format\bin\Debug\netcoreapp3.1\ch03-round-format.dll
+C:\Repos\c-sharp-instruction\ch03-round-format\ch03-round-format\bin\Debug\netcoreapp3.1\ch03-round-format.pdb
+C:\Repos\c-sharp-instruction\ch03-round-format\ch03-round-format\obj\Debug\netcoreapp3.1\ch03-round-format.csproj.CoreCompileInputs.cache
+C:\Repos\c-sharp-instruction\ch03-round-format\ch03-round-format\obj\Debug\netcoreapp3.1\ch03-round-format.AssemblyInfoInputs.cache
+C:\Repos\c-sharp-instruction\ch03-round-format\ch03-round-format\obj\Debug\netcoreapp3.1\ch03-round-format.AssemblyInfo.cs
+C:\Repos\c-sharp-instruction\ch03-round-format\ch03-round-format\obj\Debug\netcoreapp3.1\ch03-round-format.dll
+C:\Repos\c-sharp-instruction\ch03-round-format\ch03-round-format\obj\Debug\netcoreapp3.1\ch03-round-format.pdb
+C:\Repos\c-sharp-instruction\ch03-round-format\ch03-round-format\obj\Debug\netcoreapp3.1\ch03-round-format.genruntimeconfig.cache

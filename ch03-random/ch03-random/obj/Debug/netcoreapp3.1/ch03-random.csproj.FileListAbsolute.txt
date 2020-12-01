@@ -1,0 +1,12 @@
+C:\Repos\c-sharp-instruction\ch03-random\ch03-random\bin\Debug\netcoreapp3.1\ch03-random.exe
+C:\Repos\c-sharp-instruction\ch03-random\ch03-random\bin\Debug\netcoreapp3.1\ch03-random.deps.json
+C:\Repos\c-sharp-instruction\ch03-random\ch03-random\bin\Debug\netcoreapp3.1\ch03-random.runtimeconfig.json
+C:\Repos\c-sharp-instruction\ch03-random\ch03-random\bin\Debug\netcoreapp3.1\ch03-random.runtimeconfig.dev.json
+C:\Repos\c-sharp-instruction\ch03-random\ch03-random\bin\Debug\netcoreapp3.1\ch03-random.dll
+C:\Repos\c-sharp-instruction\ch03-random\ch03-random\bin\Debug\netcoreapp3.1\ch03-random.pdb
+C:\Repos\c-sharp-instruction\ch03-random\ch03-random\obj\Debug\netcoreapp3.1\ch03-random.csproj.CoreCompileInputs.cache
+C:\Repos\c-sharp-instruction\ch03-random\ch03-random\obj\Debug\netcoreapp3.1\ch03-random.AssemblyInfoInputs.cache
+C:\Repos\c-sharp-instruction\ch03-random\ch03-random\obj\Debug\netcoreapp3.1\ch03-random.AssemblyInfo.cs
+C:\Repos\c-sharp-instruction\ch03-random\ch03-random\obj\Debug\netcoreapp3.1\ch03-random.dll
+C:\Repos\c-sharp-instruction\ch03-random\ch03-random\obj\Debug\netcoreapp3.1\ch03-random.pdb
+C:\Repos\c-sharp-instruction\ch03-random\ch03-random\obj\Debug\netcoreapp3.1\ch03-random.genruntimeconfig.cache
