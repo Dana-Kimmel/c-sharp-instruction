@@ -1,0 +1,13 @@
+C:\Repos\c-sharp-instruction\ch03-03-interest-calculator\ch03-03-interest-calculator\bin\Debug\netcoreapp3.1\ch03-03-interest-calculator.exe
+C:\Repos\c-sharp-instruction\ch03-03-interest-calculator\ch03-03-interest-calculator\bin\Debug\netcoreapp3.1\ch03-03-interest-calculator.deps.json
+C:\Repos\c-sharp-instruction\ch03-03-interest-calculator\ch03-03-interest-calculator\bin\Debug\netcoreapp3.1\ch03-03-interest-calculator.runtimeconfig.json
+C:\Repos\c-sharp-instruction\ch03-03-interest-calculator\ch03-03-interest-calculator\bin\Debug\netcoreapp3.1\ch03-03-interest-calculator.runtimeconfig.dev.json
+C:\Repos\c-sharp-instruction\ch03-03-interest-calculator\ch03-03-interest-calculator\bin\Debug\netcoreapp3.1\ch03-03-interest-calculator.dll
+C:\Repos\c-sharp-instruction\ch03-03-interest-calculator\ch03-03-interest-calculator\bin\Debug\netcoreapp3.1\ch03-03-interest-calculator.pdb
+C:\Repos\c-sharp-instruction\ch03-03-interest-calculator\ch03-03-interest-calculator\obj\Debug\netcoreapp3.1\ch03-03-interest-calculator.csprojAssemblyReference.cache
+C:\Repos\c-sharp-instruction\ch03-03-interest-calculator\ch03-03-interest-calculator\obj\Debug\netcoreapp3.1\ch03-03-interest-calculator.csproj.CoreCompileInputs.cache
+C:\Repos\c-sharp-instruction\ch03-03-interest-calculator\ch03-03-interest-calculator\obj\Debug\netcoreapp3.1\ch03-03-interest-calculator.AssemblyInfoInputs.cache
+C:\Repos\c-sharp-instruction\ch03-03-interest-calculator\ch03-03-interest-calculator\obj\Debug\netcoreapp3.1\ch03-03-interest-calculator.AssemblyInfo.cs
+C:\Repos\c-sharp-instruction\ch03-03-interest-calculator\ch03-03-interest-calculator\obj\Debug\netcoreapp3.1\ch03-03-interest-calculator.dll
+C:\Repos\c-sharp-instruction\ch03-03-interest-calculator\ch03-03-interest-calculator\obj\Debug\netcoreapp3.1\ch03-03-interest-calculator.pdb
+C:\Repos\c-sharp-instruction\ch03-03-interest-calculator\ch03-03-interest-calculator\obj\Debug\netcoreapp3.1\ch03-03-interest-calculator.genruntimeconfig.cache
