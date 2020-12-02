@@ -1,0 +1,13 @@
+C:\Repos\c-sharp-instruction\ch03-switch-statement\ch03-switch-statement\obj\Debug\netcoreapp3.1\ch03-switch-statement.csprojAssemblyReference.cache
+C:\Repos\c-sharp-instruction\ch03-switch-statement\ch03-switch-statement\obj\Debug\netcoreapp3.1\ch03-switch-statement.csproj.CoreCompileInputs.cache
+C:\Repos\c-sharp-instruction\ch03-switch-statement\ch03-switch-statement\obj\Debug\netcoreapp3.1\ch03-switch-statement.AssemblyInfoInputs.cache
+C:\Repos\c-sharp-instruction\ch03-switch-statement\ch03-switch-statement\obj\Debug\netcoreapp3.1\ch03-switch-statement.AssemblyInfo.cs
+C:\Repos\c-sharp-instruction\ch03-switch-statement\ch03-switch-statement\bin\Debug\netcoreapp3.1\ch03-switch-statement.exe
+C:\Repos\c-sharp-instruction\ch03-switch-statement\ch03-switch-statement\bin\Debug\netcoreapp3.1\ch03-switch-statement.deps.json
+C:\Repos\c-sharp-instruction\ch03-switch-statement\ch03-switch-statement\bin\Debug\netcoreapp3.1\ch03-switch-statement.runtimeconfig.json
+C:\Repos\c-sharp-instruction\ch03-switch-statement\ch03-switch-statement\bin\Debug\netcoreapp3.1\ch03-switch-statement.runtimeconfig.dev.json
+C:\Repos\c-sharp-instruction\ch03-switch-statement\ch03-switch-statement\bin\Debug\netcoreapp3.1\ch03-switch-statement.dll
+C:\Repos\c-sharp-instruction\ch03-switch-statement\ch03-switch-statement\bin\Debug\netcoreapp3.1\ch03-switch-statement.pdb
+C:\Repos\c-sharp-instruction\ch03-switch-statement\ch03-switch-statement\obj\Debug\netcoreapp3.1\ch03-switch-statement.dll
+C:\Repos\c-sharp-instruction\ch03-switch-statement\ch03-switch-statement\obj\Debug\netcoreapp3.1\ch03-switch-statement.pdb
+C:\Repos\c-sharp-instruction\ch03-switch-statement\ch03-switch-statement\obj\Debug\netcoreapp3.1\ch03-switch-statement.genruntimeconfig.cache

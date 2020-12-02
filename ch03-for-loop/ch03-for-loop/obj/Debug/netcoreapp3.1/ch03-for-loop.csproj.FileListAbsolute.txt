@@ -1,0 +1,13 @@
+C:\Repos\c-sharp-instruction\ch03-for-loop\ch03-for-loop\bin\Debug\netcoreapp3.1\ch03-for-loop.exe
+C:\Repos\c-sharp-instruction\ch03-for-loop\ch03-for-loop\bin\Debug\netcoreapp3.1\ch03-for-loop.deps.json
+C:\Repos\c-sharp-instruction\ch03-for-loop\ch03-for-loop\bin\Debug\netcoreapp3.1\ch03-for-loop.runtimeconfig.json
+C:\Repos\c-sharp-instruction\ch03-for-loop\ch03-for-loop\bin\Debug\netcoreapp3.1\ch03-for-loop.runtimeconfig.dev.json
+C:\Repos\c-sharp-instruction\ch03-for-loop\ch03-for-loop\bin\Debug\netcoreapp3.1\ch03-for-loop.dll
+C:\Repos\c-sharp-instruction\ch03-for-loop\ch03-for-loop\bin\Debug\netcoreapp3.1\ch03-for-loop.pdb
+C:\Repos\c-sharp-instruction\ch03-for-loop\ch03-for-loop\obj\Debug\netcoreapp3.1\ch03-for-loop.csprojAssemblyReference.cache
+C:\Repos\c-sharp-instruction\ch03-for-loop\ch03-for-loop\obj\Debug\netcoreapp3.1\ch03-for-loop.csproj.CoreCompileInputs.cache
+C:\Repos\c-sharp-instruction\ch03-for-loop\ch03-for-loop\obj\Debug\netcoreapp3.1\ch03-for-loop.AssemblyInfoInputs.cache
+C:\Repos\c-sharp-instruction\ch03-for-loop\ch03-for-loop\obj\Debug\netcoreapp3.1\ch03-for-loop.AssemblyInfo.cs
+C:\Repos\c-sharp-instruction\ch03-for-loop\ch03-for-loop\obj\Debug\netcoreapp3.1\ch03-for-loop.dll
+C:\Repos\c-sharp-instruction\ch03-for-loop\ch03-for-loop\obj\Debug\netcoreapp3.1\ch03-for-loop.pdb
+C:\Repos\c-sharp-instruction\ch03-for-loop\ch03-for-loop\obj\Debug\netcoreapp3.1\ch03-for-loop.genruntimeconfig.cache
