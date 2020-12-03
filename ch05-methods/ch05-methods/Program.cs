@@ -25,6 +25,7 @@ namespace ch05_methods {
                 Console.Write(prompt);
                 try {
                     n = int.Parse(Console.ReadLine());
+                    success = true;
                 } catch (Exception e) {
                     Console.WriteLine("Invalid entry. Not a whole number. Try again " + e);
                 }
