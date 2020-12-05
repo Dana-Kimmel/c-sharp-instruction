@@ -13,7 +13,7 @@ namespace ch05_03_guessing_game {
 			while (userGuess != numToGuess) {
 				numGuesses++;
 				userGuess = GetInt("Enter a number between 1 and 100: ", 1, 100);
-				Console.WriteLine("Try to guess it");
+				
 				if (userGuess > (10 + numToGuess)) {
 					Console.WriteLine("Way to high!");
 				} else if (userGuess > numToGuess) {
