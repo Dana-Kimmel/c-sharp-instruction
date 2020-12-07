@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ch12_02_wizard_inventory.util;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -19,12 +20,12 @@ namespace ch12_02_wizard_inventory {
 
             string choice;
 
-            choice = util.MyConsole.GetString("\nCommand: \n");
+            choice = MyConsole.GetString("\nCommand: \n");
 
 			while (!choice.Equals("exit")) {
 				if (choice.Equals("show")) {
 					ShowAll(wizardItems);
-					choice = util.MyConsole.GetString("\nCommand: \n");
+					choice = MyConsole.GetString("\nCommand: \n");
 				}
 				if (choice.Equals("grab")) {
 					GrabItem(wizardItems);
@@ -65,7 +66,7 @@ namespace ch12_02_wizard_inventory {
 			int enterNumber = MyConsole.GetInt("Number: ");
 			enterNumber--;
 			String editItem = MyConsole.GetString("Updated name: ");
-			wizardItems.(enterNumber, editItem);
+			wizardItems[enterNumber] = editItem;
 			enterNumber++;
 			Console.WriteLine("Item number " + enterNumber + " was updated");
 			return wizardItems;
@@ -74,8 +75,8 @@ namespace ch12_02_wizard_inventory {
 		public static List<String> DropItem(List<String> wizardItems) {
 			int enterNumber = MyConsole.GetInt("Number: ");
 			enterNumber--;
-			String itemDropped = wizardItems.set(enterNumber);
-			Console.WriteLine(itemDropped + " was dropped");
+			Console.WriteLine(wizardItems[enterNumber] + " was dropped");
+			wizardItems.RemoveAt(enterNumber);
 			return wizardItems;
 		}
 
@@ -83,4 +84,4 @@ namespace ch12_02_wizard_inventory {
 
 	}
 }
-}
+
