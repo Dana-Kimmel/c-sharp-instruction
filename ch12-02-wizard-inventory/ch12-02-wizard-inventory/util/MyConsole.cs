@@ -2,77 +2,80 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ch07_product_manager.business {
+namespace ch12_02_wizard_inventory.util {
     class MyConsole {
-        public static string GetString(string prompt) {
-            Console.WriteLine(prompt);
-            string s = Console.ReadLine();
+        public static String GetString(String prompt) {
+            Console.Write(prompt);
+            String s = Console.ReadLine();
             return s;
-
         }
-        public static int GetInt(string prompt) {
 
+        public static int GetInt(String prompt) {
             int n = 0;
-            bool success = false;
+            Boolean success = false;
             while (!success) {
-                Console.Write(prompt);
                 try {
-                    n = int.Parse(Console.ReadLine());
-                    success = true;
-                } catch (Exception e) {
-                    Console.WriteLine("Error! Invalid integer. Try again." + e);
-                }
-
-            }
-            return n;
-        }
-        public static int GetInt(String prompt, int min, int max) {
-            int n = 0;
-            bool success = false;
-            while (!success) {
-                Console.Write(prompt);
-                n = int.Parse(Console.ReadLine());
-                if (n <= min) {
-                    Console.WriteLine("Error! Number must be greater than " + min + ".");
-                } else if (n >= max) {
-                    Console.WriteLine("Error! Number must be less than " + max + ".");
-                } else {
-                    success = true;
-                }
-            }
-            return n;
-        }
-        public static double GetDouble(String prompt) {
-            double n = 0;
-            bool success = false;
-            while (!success) {
-                Console.Write(prompt);
-                try {
-                    n = double.Parse(Console.ReadLine());
-                    success = true;
-                } catch (Exception e) {
-                    Console.WriteLine("Error! Invalid integer. Try again." + e);
-                }
-
-            }
-            return n;
-        }
-            public static double GetDouble(String prompt, double min, double max) {
-                double n = 0;
-                bool success = false;
-                while (!success) {
                     Console.Write(prompt);
-                    n = double.Parse(Console.ReadLine());
-                    if (n <= min) {
-                        Console.WriteLine("Error! Number must be greater than " + min + ".");
-                    } else if (n >= max) {
-                        Console.WriteLine("Error! Number must be less than " + max + ".");
-                    } else {
-                        success = true;
-                    }
+                    n = Int32.Parse(Console.ReadLine());
+                    success = true;
+                } catch (Exception e) {
+                    Console.WriteLine("Invalid entry. Try again.");
                 }
-                return n;
             }
+            return n;
         }
-    
+
+        public static int GetInt(String prompt, int min, int max) {
+            int num = 0;
+            Boolean success = false;
+            while (!success) {
+                try {
+                    Console.Write(prompt);
+                    num = int.Parse(Console.ReadLine());
+                    if (num >= min && num <= max) {
+                        success = true;
+                    } else {
+                        Console.WriteLine($"Invalid entry. Enter a number between {min} and {max}.");
+                    }
+                } catch (Exception e) {
+                    Console.WriteLine("Invalid entry. Try again.");
+                }
+            }
+            return num;
+        }
+
+        public static Double GetDouble(String prompt) {
+            double n = 0;
+            Boolean success = false;
+            while (!success) {
+                try {
+                    Console.Write(prompt);
+                    n = Convert.ToDouble(Console.ReadLine());
+                    success = true;
+                } catch (Exception e) {
+                    Console.WriteLine("Invalid entry. Not a number. Try again.");
+                }
+            }
+            return n;
+        }
+
+        public static Double GetDouble(String prompt, double min, double max) {
+            double num = 0;
+            Boolean success = false;
+            while (!success) {
+                try {
+                    Console.Write(prompt);
+                    num = Convert.ToDouble(Console.ReadLine());
+                    if (num >= min && num <= max) {
+                        success = true;
+                    } else {
+                        Console.WriteLine($"Invalid entry. Enter a number between {min} and {max}.");
+                    }
+                } catch (Exception e) {
+                    Console.WriteLine("Invalid entry. Not a number. Try again.");
+                }
+            }
+            return num;
+        }
+    }
 }
